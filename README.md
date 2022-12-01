@@ -1,6 +1,6 @@
-# Python_Challenge
+## Python_Challenge
 
-## PyBank 
+### PyBank 
 
 This file contains script to read 'budget_data.csv' and output the following in Terminal (Mac OS) and 'output.txt' file:
 
