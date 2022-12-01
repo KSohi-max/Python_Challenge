@@ -4,7 +4,7 @@
 
 This file contains script to read 'budget_data.csv' and output the following in Terminal (Mac OS) and 'output.txt' file:
 
-Financial Analysis
+#### Financial Analysis
 ----------------------------
 * Total Months: 86
 * Total:  $38382578
@@ -12,6 +12,6 @@ Financial Analysis
 * Greatest Increase in Profits: 2012-Feb $(1926159)
 * Greatest Decrease in Profits: 2013-Sep $(-2196167)
 
-## PyRymen (Optional) 
+### PyRymen (Optional) 
 
 This exercise script was not completed.
